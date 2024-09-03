@@ -36,7 +36,7 @@ app.listen(port, () => {
 
 
 
-const statusMessages = [""]; /** do what you want here*/
+const statusMessages = ["Servermanager","TikTok:pnstoffiziell" ]; /** do what you want here*/
 
 
 let currentIndex = 0;
